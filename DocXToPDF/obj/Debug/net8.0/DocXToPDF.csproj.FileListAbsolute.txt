@@ -1,0 +1,11 @@
+C:\Users\Данил\source\repos\DocXToPDF\DocXToPDF\bin\Debug\net8.0\DocXToPDF.deps.json
+C:\Users\Данил\source\repos\DocXToPDF\DocXToPDF\bin\Debug\net8.0\DocXToPDF.dll
+C:\Users\Данил\source\repos\DocXToPDF\DocXToPDF\bin\Debug\net8.0\DocXToPDF.pdb
+C:\Users\Данил\source\repos\DocXToPDF\DocXToPDF\obj\Debug\net8.0\DocXToPDF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Данил\source\repos\DocXToPDF\DocXToPDF\obj\Debug\net8.0\DocXToPDF.AssemblyInfoInputs.cache
+C:\Users\Данил\source\repos\DocXToPDF\DocXToPDF\obj\Debug\net8.0\DocXToPDF.AssemblyInfo.cs
+C:\Users\Данил\source\repos\DocXToPDF\DocXToPDF\obj\Debug\net8.0\DocXToPDF.csproj.CoreCompileInputs.cache
+C:\Users\Данил\source\repos\DocXToPDF\DocXToPDF\obj\Debug\net8.0\DocXToPDF.dll
+C:\Users\Данил\source\repos\DocXToPDF\DocXToPDF\obj\Debug\net8.0\refint\DocXToPDF.dll
+C:\Users\Данил\source\repos\DocXToPDF\DocXToPDF\obj\Debug\net8.0\DocXToPDF.pdb
+C:\Users\Данил\source\repos\DocXToPDF\DocXToPDF\obj\Debug\net8.0\ref\DocXToPDF.dll
